@@ -1,0 +1,3 @@
+struct Pixel_avg
+
+
